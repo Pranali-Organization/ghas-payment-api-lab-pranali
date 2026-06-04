@@ -1,4 +1,4 @@
-ame: CodeQL Security Scan
+name: CodeQL Security Scan
 on:
 push:
 branches: [ "main" ]
